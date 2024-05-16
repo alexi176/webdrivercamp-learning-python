@@ -1,5 +1,4 @@
 #!/usr/bin/python3
 
-a = "Learning Python is fun - 100 %"
-
-print((a + '\n') * 3)
+a = "100"
+print(('Learning Python is fun' + '"' + "'" + " - " + (a) +" %"+'\n') * 3)
